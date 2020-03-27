@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38df35e8-4125-41f3-ac43-0d6a54128c76" name="Default Changelist" comment="" />
+    <list default="true" id="38df35e8-4125-41f3-ac43-0d6a54128c76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contentpages.css" beforeDir="false" afterPath="$PROJECT_DIR$/contentpages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +56,8 @@
       <workItem from="1584718490342" duration="3454000" />
       <workItem from="1585107099165" duration="1320000" />
       <workItem from="1585276181902" duration="299000" />
+      <workItem from="1585276494208" duration="673000" />
+      <workItem from="1585277294502" duration="361000" />
     </task>
     <servers />
   </component>
@@ -57,14 +65,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585276523376">
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585277651241">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585276523376" />
-    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1" timestamp="1585276523509">
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585277651241" />
+    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1" timestamp="1585277307247">
       <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585276523509" />
+    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585277307247" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1584548261481">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
