@@ -15,7 +15,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1ZJA7xMum1Vd9cTqGDX14KJXGRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +49,7 @@
       <workItem from="1584674559547" duration="665000" />
       <workItem from="1584718490342" duration="3454000" />
       <workItem from="1585107099165" duration="1320000" />
+      <workItem from="1585276181902" duration="299000" />
     </task>
     <servers />
   </component>
@@ -51,10 +57,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1" timestamp="1585107398772">
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585276523376">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585276523376" />
+    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1" timestamp="1585276523509">
       <screen x="1920" y="180" width="1440" height="900" />
     </state>
-    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585107398772" />
+    <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585276523509" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1584548261481">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
