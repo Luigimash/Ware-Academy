@@ -4,8 +4,6 @@
     <list default="true" id="38df35e8-4125-41f3-ac43-0d6a54128c76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contentpages.css" beforeDir="false" afterPath="$PROJECT_DIR$/contentpages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +56,7 @@
       <workItem from="1585276181902" duration="299000" />
       <workItem from="1585276494208" duration="673000" />
       <workItem from="1585277294502" duration="361000" />
+      <workItem from="1585326733202" duration="32000" />
     </task>
     <servers />
   </component>
@@ -65,10 +64,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585277651241">
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585326758095">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585277651241" />
+    <state x="769" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1585326758095" />
     <state x="1920" y="166" width="1456" height="990" maximized="true" key="dock-window-1" timestamp="1585277307247">
       <screen x="1920" y="180" width="1440" height="900" />
     </state>
